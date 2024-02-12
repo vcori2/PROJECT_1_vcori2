@@ -1,11 +1,13 @@
 h1 {
   color: Violet;
+  text-align: center;
 }
 
 <h1 style="border:2px SlateBlue;">
 
 p {
   color: SlateBlue;
+  text-align: center;
 }
 
 
