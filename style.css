@@ -1,6 +1,7 @@
 h1 {
   color: Violet;
   text-align: center;
+  font-family:"lucida handwriting";
 }
 
 <h1 style="border:2px SlateBlue;">
@@ -11,5 +12,5 @@ p {
 }
 
 body {
-  background-color: lightblue;
+  background-color: lightpink;
 }
