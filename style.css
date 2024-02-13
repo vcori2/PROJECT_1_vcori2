@@ -24,8 +24,9 @@ p {
   margin-left: 80px;
 }
 
-body {
-  background-color: lightpink;
+
+#grad {
+  background-image: linear-gradient(red, yellow);
 }
 
 img {
