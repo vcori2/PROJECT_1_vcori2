@@ -12,7 +12,7 @@ p {
 }
 
 p {
-  border-style: solid;
+  border-style: double;
   border-color: white;
   border-width: 15px;
 }
