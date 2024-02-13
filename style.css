@@ -11,6 +11,11 @@ p {
   font-size: 20px;
 }
 
+p {
+  border-style: solid;
+  border-color: red;
+}
+
 body {
   background-color: lightpink;
 }
